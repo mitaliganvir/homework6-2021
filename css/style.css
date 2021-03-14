@@ -84,8 +84,9 @@ header{
 #logo{
    /*Your code here.*/
    animation-name: logo_grow;
+  -webkit-animation:logo_grow;
    animation-duration: 15s;
-   -webkit-animation:logo_grow;
+   
 }
 
 /*Keyframes for animation*/
