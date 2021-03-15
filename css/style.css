@@ -181,9 +181,10 @@ header{
     flex-basis: 200px;
   }
   /*Requirement 18*/
-  .gallery {
+  #gallery {
     display: none;
   }
+  
  
 }
 
